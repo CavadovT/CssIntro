@@ -1,0 +1,21 @@
+.container .row .header img {
+    width: 400px;
+    margin: 0 0 25px 0;
+}
+
+.container .row .body,
+.footer {
+    margin-left: 25px;
+}
+
+.container .row .body {
+    width: 300px;
+}
+
+.container .row .body .date {
+    margin-right: 25px;
+}
+
+.container .row .body .content {
+    font-size: 18px;
+}
