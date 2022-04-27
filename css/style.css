@@ -6,6 +6,7 @@
 .container .row .body,
 .footer {
     margin-left: 25px;
+    /* letter-spacing: 1px; */
 }
 
 .container .row .body {
@@ -14,6 +15,18 @@
 
 .container .row .body .date {
     margin-right: 25px;
+}
+
+.date {
+    color: #999999;
+}
+
+.comments {
+    color: #999999;
+}
+
+.content {
+    color: #7B7B7B
 }
 
 .container .row .body .content {
